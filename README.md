@@ -8,5 +8,5 @@ Amo tecnologia :heart_eyes: e me surpreendo cada dia mais com o que se pode cria
 <br/>:computer:&nbsp;Tenho noções em JavaScript, Html, Css, Sql e C#/.Net
 <br/>:heavy_check_mark:&nbsp;Gosto de ler, ver filmes, estar em familia, ir a praia e sempre quero aprender algo novo.
 <br/>:e-mail:&nbsp;Meus contatos: [![Linkedin Badge](https://img.shields.io/badge/-ElielAssis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliel-assis-oliveira/)](https://www.linkedin.com/in/eliel-assis-oliveira/) 
-| [![Email Badge](https://img.shields.io/badge/-eliel.assis7@hotmail.com-darkblue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:eliel.assis7@hotmail.com)](mailto:eliel.assis7@hotmail.com)
+| [![microsoftoutlook Badge](https://img.shields.io/badge/-eliel.assis7@hotmail.com-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:eliel.assis7@hotmail.com)](mailto:eliel.assis7@hotmail.com)
 
