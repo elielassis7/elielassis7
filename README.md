@@ -5,7 +5,7 @@
 I love technology 😍 and I fall in love more every day with what you can create with programming 💻
 <br/> 😊&nbsp; I'm in the beginning of my career, with little experience, but with a lot of confidence that good opportunities will come soon 
 <br/> 
-##<br/>&#128077; I currently work with these tools and technologies:<br/>
+## <br/>&#128077; I currently work with these tools and technologies:<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
@@ -17,13 +17,13 @@ I love technology 😍 and I fall in love more every day with what you can creat
   
           
 
-##<br/>⏩and I'm learning:<br/>
+## <br/>⏩and I'm learning:<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/>
   
-##<br/>&#128301;and I want to specialize in:<br/>
+## <br/>&#128301;and I want to specialize in:<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="60" height="60"/>
@@ -32,7 +32,7 @@ I love technology 😍 and I fall in love more every day with what you can creat
 <br/>          
 <br/>:heavy_check_mark:&nbsp;I like reading, watching movies, spending time with my family, going to the beach and I always want to learn something new.
 <br/>
-##<br/>📫 How to reach me:
+## <br/>📫 How to reach me:
 
 <div>
 <!--<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
